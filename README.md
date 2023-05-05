@@ -1,1 +1,2 @@
-# Python_Ek_Alistirma
+# Python_Alistirma
+Python ile ilgili alıştırmam.
